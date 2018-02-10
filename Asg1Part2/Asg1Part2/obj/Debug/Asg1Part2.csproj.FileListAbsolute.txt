@@ -1,0 +1,6 @@
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg1Part2\Asg1Part2\bin\Debug\Asg1Part2.exe.config
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg1Part2\Asg1Part2\bin\Debug\Asg1Part2.exe
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg1Part2\Asg1Part2\bin\Debug\Asg1Part2.pdb
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg1Part2\Asg1Part2\obj\Debug\Asg1Part2.csproj.CoreCompileInputs.cache
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg1Part2\Asg1Part2\obj\Debug\Asg1Part2.exe
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg1Part2\Asg1Part2\obj\Debug\Asg1Part2.pdb
