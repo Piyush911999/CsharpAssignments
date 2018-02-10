@@ -1,0 +1,7 @@
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg3\Asg3\bin\Debug\Asg3.exe.config
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg3\Asg3\bin\Debug\Asg3.exe
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg3\Asg3\bin\Debug\Asg3.pdb
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg3\Asg3\obj\Debug\Asg3.csproj.CoreCompileInputs.cache
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg3\Asg3\obj\Debug\Asg3.exe
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg3\Asg3\obj\Debug\Asg3.pdb
+C:\Users\piyushkumar\Desktop\VisualStudioCSh\Asg3\Asg3\obj\Debug\Asg3.csprojResolveAssemblyReference.cache
